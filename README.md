@@ -13,7 +13,7 @@ This image is a representation of the pins present on the ```QTPy RP2040```.
 ![EMBEDDED_LED_GPIO](https://user-images.githubusercontent.com/114244849/197115827-759bb061-b5e9-46da-9400-969947c56cb4.JPG)
 
 
-COMPONENTS USED:
+## COMPONENTS USED:
 -Breadboard
 - LEDs( Blue and green)
 - Resistors( 1K Ohm and 100 Ohm)
