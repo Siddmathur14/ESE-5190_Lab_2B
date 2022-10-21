@@ -14,7 +14,7 @@ This image is a representation of the pins present on the ```QTPy RP2040```.
 
 
 ## COMPONENTS USED:
--Breadboard
+- Breadboard
 - LEDs( Blue and green)
 - Resistors( 1K Ohm and 100 Ohm)
 - RP2040 Microcontroller
